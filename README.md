@@ -1,9 +1,11 @@
 # Welcome to Shaine's Repo!
 
-Nama  : Shaine Glorvina Mathea
+Nama    : Shaine Glorvina Mathea
 
-NPM   : 2306245573
+NPM     : 2306245573
 
-Kelas : PBP B
+Kelas   : PBP B
 
-Hobi : Main Ukulele
+Hobi    : Main Ukulele
+
+Jurusan : Sistem Informasi
